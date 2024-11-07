@@ -23,11 +23,19 @@ git clone gh repo clone uaOpenKore/uGATs
 
 1. ```mkdir -p /GRF/data```
 
+
 2. ```cd /GRF```
 
+
 3. EXAMPLE git clone:
+
 ```git clone git clone git@github.com:uaOpenKore/uGATs.git data```
 
+
 4. Updating gat files:
-```cd /GRF/data
-git pull```
+
+```cd /GRF/data```
+
+```git pull```
+
+
