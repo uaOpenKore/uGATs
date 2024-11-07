@@ -4,15 +4,15 @@
 
 Downloading from GIT repo https://github.com/uaOpenKore/uGATs
 
-git clone https://github.com/uaOpenKore/uGATs.git
+```git clone https://github.com/uaOpenKore/uGATs.git```
 
 or
 
-git clone git@github.com:uaOpenKore/uGATs.git
+```git clone git@github.com:uaOpenKore/uGATs.git```
 
 or 
 
-git clone gh repo clone uaOpenKore/uGATs
+```git clone gh repo clone uaOpenKore/uGATs```
 
 
 ### Mirror
@@ -32,9 +32,7 @@ git clone gh repo clone uaOpenKore/uGATs
 
 4. Updating gat files:
 
-```
-cd /GRF/data
-git pull
-```
+```cd /GRF/data
+git pull```
 
 
