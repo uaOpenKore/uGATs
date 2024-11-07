@@ -32,7 +32,7 @@ or
 
 4. Updating gat files:
 
-```cd /GRF/data
-git pull```
+```cd /GRF/data```
+```git pull```
 
 
