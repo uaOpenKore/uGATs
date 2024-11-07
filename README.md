@@ -17,7 +17,7 @@ or
 
 ### Mirror
 
-2024/11/07 - https://drive.google.com/file/d/1MWIJXgjKE0l8fxZHm9yY4LgzL8ET9voF/view?usp=sharing
+- 2024/11/07 - https://drive.google.com/file/d/1MWIJXgjKE0l8fxZHm9yY4LgzL8ET9voF/view?usp=sharing
 
 ## Installation
 
@@ -33,6 +33,7 @@ or
 4. Updating gat files:
 
 ```cd /GRF/data```
+
 ```git pull```
 
 
